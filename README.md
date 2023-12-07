@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi Bro 👋
-- 🔭 My name is XS.I am a Java developer from Suzhou
-- 🌱 I’m currently learning Rust
+- 🔭 My name is XS.I am a Java/Go/Rust developer from Suzhou
 - 👯 I'm interested in Microservice,Service Mesh,Distributed Systems
 - 📨 How to reach me：
     - [Dromara](https://dromara.org/)：[tonycody@dromara.org](mailto:tonycody@dromara.org)
